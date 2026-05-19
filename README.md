@@ -85,8 +85,7 @@
 - [`assets/showcase/landscape/`](assets/showcase/landscape/)：横版示意图
 - [`assets/showcase/portrait/`](assets/showcase/portrait/)：竖版示意图
 - [`LICENSE`](LICENSE)：开源协议
-- [`docs/github-about.md`](docs/github-about.md)：仓库简介与 About 文案
-- 示意图均选自示例样图目录，仅作效果展示
+- 示例图均为整理后的样例素材，仅作效果展示
 
 ## 适用模型
 
@@ -114,25 +113,10 @@
 
 整体气质偏正式、克制、有秩序，不走可爱风，也不走网页风。
 
-## 提交校验
-
-仓库里提供了一个最小的提交信息校验 Hook。启用方式：
-
-```powershell
-git config core.hooksPath .githooks
-```
-
-提交信息建议使用 Conventional Commits，例如：
-
-```text
-docs: 补充开源说明
-```
-
 ## 说明
 
 - 这不是一个 PPT 生成程序仓库，而是一个 prompt 开源仓库。
 - 示例图仅用于展示效果，不代表固定模板。
-- 如果需要发布到 GitHub，可直接将此文件夹作为独立仓库推送。
 
 ## 许可证
 

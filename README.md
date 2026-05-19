@@ -15,7 +15,7 @@
 
 横版适合 PPT，竖版适合海报。这个目录里的示例图已经按尺寸分成两组：
 
-- 横版：4 张
+- 横版：10 张
 - 竖版：12 张
 
 ### 横版（PPT）
@@ -28,6 +28,21 @@
 <p align="center">
   <img src="assets/showcase/landscape/03.png" alt="横版示例 3" width="48%" />
   <img src="assets/showcase/landscape/04.png" alt="横版示例 4" width="48%" />
+</p>
+
+<p align="center">
+  <img src="assets/showcase/landscape/05.png" alt="横版示例 5" width="48%" />
+  <img src="assets/showcase/landscape/06.png" alt="横版示例 6" width="48%" />
+</p>
+
+<p align="center">
+  <img src="assets/showcase/landscape/07.png" alt="横版示例 7" width="48%" />
+  <img src="assets/showcase/landscape/08.png" alt="横版示例 8" width="48%" />
+</p>
+
+<p align="center">
+  <img src="assets/showcase/landscape/09.png" alt="横版示例 9" width="48%" />
+  <img src="assets/showcase/landscape/10.png" alt="横版示例 10" width="48%" />
 </p>
 
 ### 竖版（海报）

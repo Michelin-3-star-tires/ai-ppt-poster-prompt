@@ -14,13 +14,13 @@
 ## 效果示意
 
 <p align="center">
-  <img src="assets/showcase/preview-grid.png" alt="九宫格预览" width="100%" />
+  <img src="assets/showcase/example-01-dongguan.png" alt="示意图 1" width="48%" />
+  <img src="assets/showcase/example-02-global.png" alt="示意图 2" width="48%" />
 </p>
 
 <p align="center">
-  <img src="assets/showcase/cover.png" alt="封面页示例" width="32%" />
-  <img src="assets/showcase/data-page.png" alt="数据页示例" width="32%" />
-  <img src="assets/showcase/end.png" alt="结束页示例" width="32%" />
+  <img src="assets/showcase/example-03-politics.png" alt="示意图 3" width="48%" />
+  <img src="assets/showcase/example-04-timeline.png" alt="示意图 4" width="48%" />
 </p>
 
 ## 这个 Prompt 适合什么
@@ -35,6 +35,7 @@
 
 - [`prompt.md`](prompt.md)：可直接复制使用的完整提示词
 - [`assets/showcase/`](assets/showcase/)：示意图
+- 这些示意图来自你提供的 `D:\资料\GPT生成的图片\示例效果` 样图
 
 ## 使用方式
 

@@ -13,14 +13,47 @@
 
 ## 效果示意
 
+横版适合 PPT，竖版适合海报。这个目录里的示例图已经按尺寸分成两组：
+
+- 横版：4 张
+- 竖版：12 张
+
+### 横版（PPT）
+
 <p align="center">
-  <img src="assets/showcase/example-01-dongguan.png" alt="示意图 1" width="48%" />
-  <img src="assets/showcase/example-02-global.png" alt="示意图 2" width="48%" />
+  <img src="assets/showcase/landscape/01.png" alt="横版示例 1" width="48%" />
+  <img src="assets/showcase/landscape/02.png" alt="横版示例 2" width="48%" />
 </p>
 
 <p align="center">
-  <img src="assets/showcase/example-03-politics.png" alt="示意图 3" width="48%" />
-  <img src="assets/showcase/example-04-timeline.png" alt="示意图 4" width="48%" />
+  <img src="assets/showcase/landscape/03.png" alt="横版示例 3" width="48%" />
+  <img src="assets/showcase/landscape/04.png" alt="横版示例 4" width="48%" />
+</p>
+
+### 竖版（海报）
+
+<p align="center">
+  <img src="assets/showcase/portrait/01.png" alt="竖版示例 1" width="31%" />
+  <img src="assets/showcase/portrait/02.png" alt="竖版示例 2" width="31%" />
+  <img src="assets/showcase/portrait/03.png" alt="竖版示例 3" width="31%" />
+</p>
+
+<p align="center">
+  <img src="assets/showcase/portrait/04.png" alt="竖版示例 4" width="31%" />
+  <img src="assets/showcase/portrait/05.png" alt="竖版示例 5" width="31%" />
+  <img src="assets/showcase/portrait/06.png" alt="竖版示例 6" width="31%" />
+</p>
+
+<p align="center">
+  <img src="assets/showcase/portrait/07.png" alt="竖版示例 7" width="31%" />
+  <img src="assets/showcase/portrait/08.png" alt="竖版示例 8" width="31%" />
+  <img src="assets/showcase/portrait/09.png" alt="竖版示例 9" width="31%" />
+</p>
+
+<p align="center">
+  <img src="assets/showcase/portrait/10.png" alt="竖版示例 10" width="31%" />
+  <img src="assets/showcase/portrait/11.png" alt="竖版示例 11" width="31%" />
+  <img src="assets/showcase/portrait/12.png" alt="竖版示例 12" width="31%" />
 </p>
 
 ## 这个 Prompt 适合什么
@@ -34,8 +67,9 @@
 ## 仓库内容
 
 - [`prompt.md`](prompt.md)：可直接复制使用的完整提示词
-- [`assets/showcase/`](assets/showcase/)：示意图
-- 这些示意图来自你提供的 `D:\资料\GPT生成的图片\示例效果` 样图
+- [`assets/showcase/landscape/`](assets/showcase/landscape/)：横版示意图
+- [`assets/showcase/portrait/`](assets/showcase/portrait/)：竖版示意图
+- 这些示意图全部来自你提供的 `D:\资料\GPT生成的图片\示例效果` 样图
 
 ## 使用方式
 

@@ -84,7 +84,15 @@
 - [`prompt.md`](prompt.md)：可直接复制使用的完整提示词
 - [`assets/showcase/landscape/`](assets/showcase/landscape/)：横版示意图
 - [`assets/showcase/portrait/`](assets/showcase/portrait/)：竖版示意图
+- [`LICENSE`](LICENSE)：开源协议
+- [`docs/github-about.md`](docs/github-about.md)：仓库简介与 About 文案
 - 这些示意图全部来自你提供的 `D:\资料\GPT生成的图片\示例效果` 样图
+
+## 适用模型
+
+这套 prompt 主要面向 `GPT-image-2` 这类图像生成场景设计，尤其适合生成正式的 PPT 单页图、海报图和信息图。
+
+如果你使用的是 ChatGPT 网页端或手机端，也可以直接把 `prompt.md` 里的内容复制进去，再补上你的材料和模板，让模型先输出设计方案，再继续生成图片。
 
 ## 使用方式
 
@@ -125,3 +133,7 @@ docs: 补充开源说明
 - 这不是一个 PPT 生成程序仓库，而是一个 prompt 开源仓库。
 - 示例图仅用于展示效果，不代表固定模板。
 - 如果你要把它发布到 GitHub，可以直接把这个文件夹作为一个独立仓库推上去。
+
+## 许可证
+
+本仓库采用 `MIT License`，见 [`LICENSE`](LICENSE)。

@@ -16,12 +16,37 @@
 - 正式生成时每批最多 10 页
 - PPT 页面会尽量预留图表、表格和原文截图的位置，方便后期补图
 
+## 怎么使用
+
+1. 打开 [`prompt.md`](prompt.md)
+2. 将材料和模板一并提供给模型
+3. 先让模型输出逐页设计方案
+4. 确认后，再开始批量生成图片
+
+<p align="center">
+  <img src="assets/how-to-use/chat/01.png" alt="使用示意 1" width="31%" />
+  <img src="assets/how-to-use/chat/02.png" alt="使用示意 2" width="31%" />
+  <img src="assets/how-to-use/chat/03.png" alt="使用示意 3" width="31%" />
+</p>
+
+这三张图展示的是把 prompt 直接交给 ChatGPT 网页端或手机端后，先梳理材料、再输出方案、再开始生成图片的实际用法。
+
 ## 效果示意
 
 横版适合 PPT，竖版适合海报。这个目录里的示例图已经按尺寸分成两组：
 
 - 横版：10 张
 - 竖版：12 张
+
+### 九宫格预览（横版）
+
+<p align="center">
+  <img src="assets/showcase/preview-grid/01.png" alt="九宫格预览 1" width="31%" />
+  <img src="assets/showcase/preview-grid/02.png" alt="九宫格预览 2" width="31%" />
+  <img src="assets/showcase/preview-grid/03.png" alt="九宫格预览 3" width="31%" />
+</p>
+
+这三张图是横版 PPT 的九宫格概览效果，适合先看整体风格和版式气质。
 
 ### 横版（PPT）
 
@@ -88,6 +113,8 @@
 ## 仓库内容
 
 - [`prompt.md`](prompt.md)：可直接复制使用的完整提示词
+- [`assets/how-to-use/chat/`](assets/how-to-use/chat/)：使用方式示意图
+- [`assets/showcase/preview-grid/`](assets/showcase/preview-grid/)：横版九宫格预览
 - [`assets/showcase/landscape/`](assets/showcase/landscape/)：横版示意图
 - [`assets/showcase/portrait/`](assets/showcase/portrait/)：竖版示意图
 - [`LICENSE`](LICENSE)：开源协议
@@ -98,13 +125,6 @@
 这套 prompt 主要面向 `GPT-image-2` 这类图像生成场景设计，尤其适合生成正式的 PPT 单页图、海报图和信息图。
 
 如果使用 ChatGPT 网页端或手机端，也可以直接把 `prompt.md` 里的内容复制进去，再补充材料和模板，让模型先输出设计方案，再继续生成图片。
-
-## 使用方式
-
-1. 打开 [`prompt.md`](prompt.md)
-2. 将材料和模板一并提供给模型
-3. 先让模型输出逐页设计方案
-4. 确认后，再开始批量生成图片
 
 ## 默认视觉风格
 

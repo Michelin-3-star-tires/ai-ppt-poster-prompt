@@ -24,12 +24,11 @@
 4. 确认后，再开始批量生成图片
 
 <p align="center">
-  <img src="assets/how-to-use/chat/01.png" alt="使用示意 1" width="31%" />
-  <img src="assets/how-to-use/chat/02.png" alt="使用示意 2" width="31%" />
-  <img src="assets/how-to-use/chat/03.png" alt="使用示意 3" width="31%" />
+  <img src="assets/how-to-use/chat/01.png" alt="使用示意 1" width="48%" />
+  <img src="assets/how-to-use/chat/02.png" alt="使用示意 2" width="48%" />
 </p>
 
-这三张图展示的是把 prompt 直接交给 ChatGPT 网页端或手机端后，先梳理材料、再输出方案、再开始生成图片的实际用法。
+这两张图展示的是把 prompt 直接交给 ChatGPT 网页端或手机端后，先梳理材料、再输出方案、再开始生成图片的实际用法。
 
 ## 效果示意
 

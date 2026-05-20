@@ -24,11 +24,12 @@
 4. 确认后，再开始批量生成图片
 
 <p align="center">
-  <img src="assets/how-to-use/chat/01.png" alt="使用示意 1" width="48%" />
-  <img src="assets/how-to-use/chat/02.png" alt="使用示意 2" width="48%" />
+  <img src="assets/how-to-use/chat/01.png" alt="使用示意 1" width="31%" />
+  <img src="assets/how-to-use/chat/02.png" alt="使用示意 2" width="31%" />
+  <img src="assets/how-to-use/chat/03.png" alt="使用示意 3" width="31%" />
 </p>
 
-这两张图展示的是把 prompt 直接交给 ChatGPT 网页端或手机端后，先梳理材料、再输出方案、再开始生成图片的实际用法。
+这三张图展示的是把 prompt 直接交给 ChatGPT 网页端或手机端后，先梳理材料、再输出方案、再开始生成图片的实际用法。
 
 ## 效果示意
 
@@ -40,12 +41,11 @@
 ### 九宫格预览（横版）
 
 <p align="center">
-  <img src="assets/showcase/preview-grid/01.png" alt="九宫格预览 1" width="31%" />
-  <img src="assets/showcase/preview-grid/02.png" alt="九宫格预览 2" width="31%" />
-  <img src="assets/showcase/preview-grid/03.png" alt="九宫格预览 3" width="31%" />
+  <img src="assets/showcase/preview-grid/01.png" alt="九宫格预览 1" width="48%" />
+  <img src="assets/showcase/preview-grid/02.png" alt="九宫格预览 2" width="48%" />
 </p>
 
-这三张图是横版 PPT 的九宫格概览效果，适合先看整体风格和版式气质。
+这两张图是横版 PPT 的九宫格概览效果，适合先看整体风格和版式气质。
 
 ### 横版（PPT）
 
